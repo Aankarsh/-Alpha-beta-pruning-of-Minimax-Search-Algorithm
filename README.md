@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:  AANKARSH  </h3>
-<h3>Register Number:212223233001        </h3>
+<h3>Register Number:212223233001         </h3>
 <h3>Date:04/11/2026 </h3>
 <H3>Aim:</H3>
 <p>
